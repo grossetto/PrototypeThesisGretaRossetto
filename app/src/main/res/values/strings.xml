@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="startDay">Start Day</string>
+    <string name="startHour">Start Hour</string>
+    <string name="departureCity">Departure City</string>
+    <string name="arrivalCity">Arrival City</string>
+    <string name="submitBtn">Submit</string>
+</resources>
